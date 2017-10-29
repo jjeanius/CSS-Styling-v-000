@@ -51,7 +51,7 @@ figcaption {
   font-family: 'Clicker Script', cursive;
 }
 
-#logo h2 { 
+#logo h2 {
   font-family: 'Elsie Swash Caps', cursive;
 }
 
@@ -62,11 +62,11 @@ figcaption {
   text-decoration: none;
   }
 
-#detials a:hover {
+#details a:hover {
   color: black;
   text-decoration: underline;
 }
 
 #details a:active {
-  color: red;  
+  color: red;
 }
